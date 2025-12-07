@@ -136,7 +136,7 @@ function AboutPage({ onNavigate }: { onNavigate: (page: string) => void }) {
               icon: '🌱',
             },
             {
-              title: 'Give Back',
+              title: 'Give back',
               description: 'Contribute to the community through mentorship and support',
               icon: '❤️',
             },
