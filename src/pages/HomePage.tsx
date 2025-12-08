@@ -377,7 +377,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
             onClick={() => onNavigate('signup')}
             className="bg-white text-[#1E73BE] hover:bg-white/90"
           >
-            Get Start Free
+            Get Started
           </Button>
         </div>
       </section>
